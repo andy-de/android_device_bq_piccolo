@@ -84,8 +84,8 @@ vidc.enc.narrow.searchrange=1
 drm.service.enabled=1
 
 # Perfd
-ro.min_freq_0=960000
-ro.min_freq_4=800000
+ro.min_freq_0=533330
+ro.min_freq_4=499200
 
 # Set max background services
 ro.config.max_starting_bg=8
